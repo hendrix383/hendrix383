@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **hendrix383/hendrix383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you startede 
@@ -13,3 +11,4 @@ Here are some ideas to get you startede
 Como entrar em contato, me ligando.
 😄 Pronomes:ELE 
 ➡️ ⚡ Curiosidade: Como que eles faz pra um cavalo expinar 12m.
+https://media1.tenor.com/m/xKuZtChn5REAAAAC/horse-side-eye-suspicious.gif)
