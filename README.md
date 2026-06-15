@@ -1,7 +1,7 @@
 ## Hi there 👋
 **hendrix383/hendrix383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you startede 
+
 🔭 Atualmente estou trabalhando em treinamendo de cavalo.
 🌱 Atualmente estou aprendendo curso de cavalo pra competição.
 👯 Quero colaborar em provas.
